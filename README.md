@@ -37,7 +37,7 @@ This repository documents the step-by-step setup and configuration of a virtuali
 * Configured a custom Virtual NAT Network within VMware with the target CIDR block:
   * **Network Subnet**: `10.0.0.0/24`
   * Configured isolated network parameters to allow proper NAT traversal for lab tasks while maintaining host safety.
-
+![IP Configuration and NAT Network](<IP config and NAT Network.png>)
 ### Step 4: Kali Linux Deployment & Configuration
 * Imported and set up the **Kali Linux** virtual appliance.
 * Adjustments made to network adapters to align with the `10.0.0.0/24` NAT subnet.
@@ -48,6 +48,12 @@ This repository documents the step-by-step setup and configuration of a virtuali
 ### Step 5: Testing & State Persistence
 * Verified network connectivity and functionality of the Kali environment.
 * Created initial VM **snapshots** within VMware to establish a clean restore baseline for future offensive and defensive testing modules.
+
+* Configured snapshots to ensure clean restore baselines for future testing modules.
+
+![VMware Snapshot Menu](<vm-ware snapshot.png>)
+
+![VMware Snapshot Manager](<Snapshot manager.png>)
 
 ---
 
