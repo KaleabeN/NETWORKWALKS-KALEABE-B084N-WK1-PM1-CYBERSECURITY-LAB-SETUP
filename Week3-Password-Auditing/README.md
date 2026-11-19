@@ -24,4 +24,4 @@ The objective was to demonstrate how weak passwords can be rapidly compromised, 
 *   **Evidences:** Screenshots of the Johnny GUI, the Networkwalks web tools, and the successfully unlocked PDF.
 
 ## ⚠️ Disclaimer
-*These materials are for education and research purposes only. All practicals and labs were performed in authorized environments (owned local network) or via passive OSINT (publicly available Google data). The instructor, authors, and Networkwalks Academy are not responsible for any misuse of this knowledge. Unauthorized access is illegal.*
+*These materials are for education and research purposes only. All practicals and labs were performed in authorized environments (owned local network). The instructor, authors, and Networkwalks Academy are not responsible for any misuse of this knowledge. Unauthorized access is illegal.*
